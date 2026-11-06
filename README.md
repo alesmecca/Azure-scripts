@@ -1,6 +1,6 @@
 # Azure Scripts
 
-**Raccolta personale di Alessandro Smecca** — script PowerShell per attività operative, automazione e collaudo in ambito Microsoft Entra e cloud.
+**Raccolta personale** — script PowerShell per attività operative, automazione e collaudo in ambito Microsoft Entra e cloud.
 
 La raccolta è organizzata per argomento e verrà estesa con nuovi script. È un progetto personale: non rappresenta una pubblicazione ufficiale di un'azienda o di un cliente.
 
